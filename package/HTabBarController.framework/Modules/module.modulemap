@@ -1,0 +1,6 @@
+framework module HTabBarController {
+  umbrella header "HTabBarController.h"
+
+  export *
+  module * { export * }
+}
